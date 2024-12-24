@@ -49,3 +49,16 @@
     @apply w-full h-[180px] p-6 capitalize rounded-lg resize-none;
   }
 }
+
+.input,
+.textarea {
+  @apply w-full rounded-lg bg-transparent border border-white/20 px-4 py-3 outline-none focus:border-accent placeholder:text-white/30 placeholder:font-light transition-all duration-300;
+}
+
+.textarea {
+  @apply h-[180px] resize-none;
+}
+
+.btn {
+  @apply h-[52px] bg-transparent;
+}
