@@ -11,21 +11,21 @@ import 'swiper/css/pagination';
 // data testimonial
 const testimonialData = [
   {
-    image: '/t-avt-1.png',
+    image: '/sara.jpg',
     name: 'Sarah Wijaya',
     position: 'Pelanggan',
     message:
       'Sangat puas dengan layanan yang diberikan. Tim mereka sangat profesional dan hasil kerjanya melebihi ekspektasi saya. Pengerjaan proyek tepat waktu dan komunikasinya sangat baik.',
   },
   {
-    image: '/t-avt-2.png',
+    image: '/diana.jpg',
     name: 'Diana Putri',
     position: 'Pelanggan',
     message:
       'Desain website yang dihasilkan sangat elegan dan sesuai dengan brand kami. Proses pengerjaannya sangat terstruktur dan mereka selalu terbuka terhadap feedback yang kami berikan.',
   },
   {
-    image: '/t-avt-3.png',
+    image: '/budi.jpg',
     name: 'Budi Santoso',
     position: 'Pelanggan',
     message:
