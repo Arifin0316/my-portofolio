@@ -24,7 +24,7 @@ const workSlides = {
           link: 'https://yumemart.vercel.app/',
         },
         {
-          title: 'finest',
+          title: 'finance',
           description: 'ini adalah website pengelolah keuangan anda supaya anda dapat mengatur keuangan anda dengan mudah dan efisien',
           path: '/finenst2.jpg',
           link: 'https://finance-app-xi-seven.vercel.app/',
